@@ -1,0 +1,15 @@
+{
+    "name": "collection",
+    "description": "بوت تجميع نقاط",
+    "stack": "container",
+    "logo": "https://telegra.ph/file/bd0fde82d09f7681afc99.jpg",
+    "repository": "https://github.com/modymesourceze/t",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github.com/modymesourceze/t",
+    "env": {
+    }
+}
