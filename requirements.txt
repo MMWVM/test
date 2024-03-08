@@ -1,0 +1,7 @@
+aiosqlite==0.19.0
+aiolimiter==1.0.0
+anyio==4.2.0
+Pyrogram==2.0.106
+pyromod==3.1.6
+Telethon==1.33.1
+opentele==1.15.1
